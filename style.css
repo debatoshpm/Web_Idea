@@ -1,0 +1,25 @@
+.side{
+    background-color: greenyellow;
+    padding: 5% 0 5% 5%;
+}
+
+li{
+    margin: 10% 0;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.id1{
+    color: seagreen;
+    font-size: 250%;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25%;
+}
+
+.id2{
+    color: seagreen;
+    font-size: large;
+    font-weight: bold;
+    padding: 5%;
+}
